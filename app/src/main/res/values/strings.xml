@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book Finder</string>
+    <string name="hint">Enter Search Term&#x2026;</string>
+    <string name="button">SEARCH</string>
+    <string name="defaultMessage">Please Enter a Search Query</string>
+    <string name="invalidSQ">Invalid Search Query, Try again!</string>
+    <string name="notConnected">Please Check your Internet connection and Try again!</string>
+    <string name="noBooks">Nothing to show, Please Enter a valid keyword!</string>
+</resources>
